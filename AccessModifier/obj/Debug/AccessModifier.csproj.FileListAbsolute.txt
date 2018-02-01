@@ -1,0 +1,9 @@
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifier\bin\Debug\AccessModifier.exe.config
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifier\bin\Debug\AccessModifier.exe
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifier\bin\Debug\AccessModifier.pdb
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifier\obj\Debug\AccessModifier.csprojResolveAssemblyReference.cache
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifier\obj\Debug\AccessModifier.exe
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifier\obj\Debug\AccessModifier.pdb
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\AccessModifier\bin\Debug\AccessModifier.exe.config
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\AccessModifier\obj\Debug\AccessModifier.exe
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\AccessModifier\obj\Debug\AccessModifier.pdb

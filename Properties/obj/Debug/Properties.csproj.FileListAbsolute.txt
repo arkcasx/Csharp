@@ -1,0 +1,9 @@
+c:\users\clark\documents\visual studio 2015\Projects\Properties\bin\Debug\Properties.exe.config
+c:\users\clark\documents\visual studio 2015\Projects\Properties\bin\Debug\Properties.exe
+c:\users\clark\documents\visual studio 2015\Projects\Properties\bin\Debug\Properties.pdb
+c:\users\clark\documents\visual studio 2015\Projects\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+c:\users\clark\documents\visual studio 2015\Projects\Properties\obj\Debug\Properties.exe
+c:\users\clark\documents\visual studio 2015\Projects\Properties\obj\Debug\Properties.pdb
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\Properties\bin\Debug\Properties.exe.config
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\Properties\obj\Debug\Properties.exe
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\Properties\obj\Debug\Properties.pdb

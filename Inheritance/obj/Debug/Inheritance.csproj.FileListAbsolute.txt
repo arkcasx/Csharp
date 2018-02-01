@@ -1,0 +1,6 @@
+c:\users\clark\documents\visual studio 2015\Projects\Inheritance\bin\Debug\Inheritance.exe.config
+c:\users\clark\documents\visual studio 2015\Projects\Inheritance\bin\Debug\Inheritance.exe
+c:\users\clark\documents\visual studio 2015\Projects\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\clark\documents\visual studio 2015\Projects\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+c:\users\clark\documents\visual studio 2015\Projects\Inheritance\obj\Debug\Inheritance.exe
+c:\users\clark\documents\visual studio 2015\Projects\Inheritance\obj\Debug\Inheritance.pdb
