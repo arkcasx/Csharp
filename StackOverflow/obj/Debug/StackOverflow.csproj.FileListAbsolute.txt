@@ -1,0 +1,9 @@
+c:\users\clark\documents\visual studio 2015\Projects\StackOverflow\bin\Debug\StackOverflow.exe.config
+c:\users\clark\documents\visual studio 2015\Projects\StackOverflow\bin\Debug\StackOverflow.exe
+c:\users\clark\documents\visual studio 2015\Projects\StackOverflow\bin\Debug\StackOverflow.pdb
+c:\users\clark\documents\visual studio 2015\Projects\StackOverflow\obj\Debug\StackOverflow.exe
+c:\users\clark\documents\visual studio 2015\Projects\StackOverflow\obj\Debug\StackOverflow.pdb
+c:\users\clark\documents\visual studio 2015\Projects\StackOverflow\obj\Debug\StackOverflow.csprojResolveAssemblyReference.cache
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\StackOverflow\bin\Debug\StackOverflow.exe.config
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\StackOverflow\obj\Debug\StackOverflow.exe
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\StackOverflow\obj\Debug\StackOverflow.pdb

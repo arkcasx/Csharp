@@ -1,0 +1,9 @@
+c:\users\clark\documents\visual studio 2015\Projects\StopWatch\bin\Debug\StopWatch.exe.config
+c:\users\clark\documents\visual studio 2015\Projects\StopWatch\bin\Debug\StopWatch.exe
+c:\users\clark\documents\visual studio 2015\Projects\StopWatch\bin\Debug\StopWatch.pdb
+c:\users\clark\documents\visual studio 2015\Projects\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+c:\users\clark\documents\visual studio 2015\Projects\StopWatch\obj\Debug\StopWatch.exe
+c:\users\clark\documents\visual studio 2015\Projects\StopWatch\obj\Debug\StopWatch.pdb
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\StopWatch\obj\Debug\StopWatch.pdb

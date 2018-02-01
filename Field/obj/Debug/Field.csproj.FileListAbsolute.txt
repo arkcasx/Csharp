@@ -1,0 +1,9 @@
+c:\users\clark\documents\visual studio 2015\Projects\Field\bin\Debug\Field.exe.config
+c:\users\clark\documents\visual studio 2015\Projects\Field\bin\Debug\Field.exe
+c:\users\clark\documents\visual studio 2015\Projects\Field\bin\Debug\Field.pdb
+c:\users\clark\documents\visual studio 2015\Projects\Field\obj\Debug\Field.csprojResolveAssemblyReference.cache
+c:\users\clark\documents\visual studio 2015\Projects\Field\obj\Debug\Field.exe
+c:\users\clark\documents\visual studio 2015\Projects\Field\obj\Debug\Field.pdb
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\Field\bin\Debug\Field.exe.config
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\Field\obj\Debug\Field.exe
+C:\Users\Clark\Documents\Visual Studio 2015\Projects\C#\Field\obj\Debug\Field.pdb
