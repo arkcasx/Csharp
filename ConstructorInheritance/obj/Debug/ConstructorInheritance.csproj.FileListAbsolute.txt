@@ -1,0 +1,5 @@
+c:\users\clark\documents\visual studio 2015\Projects\ConstructorInheritance\bin\Debug\ConstructorInheritance.exe.config
+c:\users\clark\documents\visual studio 2015\Projects\ConstructorInheritance\bin\Debug\ConstructorInheritance.exe
+c:\users\clark\documents\visual studio 2015\Projects\ConstructorInheritance\bin\Debug\ConstructorInheritance.pdb
+c:\users\clark\documents\visual studio 2015\Projects\ConstructorInheritance\obj\Debug\ConstructorInheritance.exe
+c:\users\clark\documents\visual studio 2015\Projects\ConstructorInheritance\obj\Debug\ConstructorInheritance.pdb

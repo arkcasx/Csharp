@@ -1,0 +1,8 @@
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifiers\bin\Debug\AccessModifiers.exe
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifiers\bin\Debug\AccessModifiers.pdb
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifiers\bin\Debug\Amazon.dll
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifiers\bin\Debug\Amazon.pdb
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifiers\obj\Debug\AccessModifiers.csprojResolveAssemblyReference.cache
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifiers\obj\Debug\AccessModifiers.exe
+c:\users\clark\documents\visual studio 2015\Projects\AccessModifiers\obj\Debug\AccessModifiers.pdb

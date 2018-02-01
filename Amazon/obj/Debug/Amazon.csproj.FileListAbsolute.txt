@@ -1,0 +1,5 @@
+c:\users\clark\documents\visual studio 2015\Projects\Amazon\bin\Debug\Amazon.dll
+c:\users\clark\documents\visual studio 2015\Projects\Amazon\bin\Debug\Amazon.pdb
+c:\users\clark\documents\visual studio 2015\Projects\Amazon\obj\Debug\Amazon.csprojResolveAssemblyReference.cache
+c:\users\clark\documents\visual studio 2015\Projects\Amazon\obj\Debug\Amazon.dll
+c:\users\clark\documents\visual studio 2015\Projects\Amazon\obj\Debug\Amazon.pdb
